@@ -41,6 +41,7 @@ export default defineUserConfig({
                 '/documentation/language/basic_concepts.md',
                 '/documentation/language/comment.md',
                 '/documentation/language/ascii.md',
+                '/documentation/language/translation_phases.md',
               ],
             },
           ],
