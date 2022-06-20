@@ -42,6 +42,7 @@ export default defineUserConfig({
                 '/documentation/language/comment.md',
                 '/documentation/language/ascii.md',
                 '/documentation/language/translation_phases.md',
+                '/documentation/language/punctuators.md',
               ],
             },
           ],
