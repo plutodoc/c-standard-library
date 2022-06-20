@@ -40,6 +40,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/language/basic_concepts.md',
                 '/documentation/language/comment.md',
+                '/documentation/language/ascii.md',
               ],
             },
           ],
