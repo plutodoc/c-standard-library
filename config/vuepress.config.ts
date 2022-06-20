@@ -39,6 +39,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/language/basic_concepts.md',
+                '/documentation/language/comment.md',
               ],
             },
           ],
